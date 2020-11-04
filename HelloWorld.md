@@ -1,1 +1,1 @@
-## Este es un archivo de rebajas
+## This is a markdown file
